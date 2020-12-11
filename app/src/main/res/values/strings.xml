@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel API</string>
+    <string name="text_success">Success</string>
+    <string name="text_ok">OK</string>
+    <string name="text_error">Error</string>
+    <string name="text_info">Info</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_yes">Accept</string>
+    <string name="toolbar_character_list">Characters</string>
+    <string name="tv_title_name">Name</string>
+    <string name="tv_description_title">Description</string>
+    <string name="empty_description_character">There is no description for this character :(</string>
+</resources>
